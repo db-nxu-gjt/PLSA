@@ -41,7 +41,6 @@ retraining**.
 │   ├── make_figures.py / make_figures_en.py # zh / en paper figures
 │   └── pimt_best.json       # best PIMT-Net hyperparameters
 ├── data/processed/          # place downloaded npz here (see data/README.md)
-└── figs_en/, figs_zh/, export/  # generated outputs (gitignored)
 ```
 
 ## Environment
