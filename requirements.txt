@@ -1,0 +1,9 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+torch>=2.0
+scikit-learn>=1.3
+xgboost>=1.7
+# Optional: only for regenerating raw simulation data / swing sweeps from scratch
+# andes>=1.9

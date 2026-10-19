@@ -1,0 +1,8 @@
+{
+  "d": 128,
+  "heads": 8,
+  "n_enc": 3,
+  "n_dec": 3,
+  "ff": 256,
+  "augment": false
+}
